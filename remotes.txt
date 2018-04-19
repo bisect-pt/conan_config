@@ -1,0 +1,2 @@
+bincrafters https://api.bintray.com/conan/bincrafters/public-conan
+bisect https://api.bintray.com/conan/bisect/bisect
